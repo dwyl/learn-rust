@@ -5,7 +5,7 @@ Learn `rust-lang` to build systems.
 # Why use Rust? 
 
 ## Blazingly Fast
-Rust don't use garbage collector for memory management, and this doesn't means that you need to manually manage memory! 
+Rust does not use garbage collector for memory management, and this means that you do not need to manually manage memory! 
 You can see some benchmarks to compare Rust with C and other languages in [this post, for exemple](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/rust.html)
 
 ## Most Loved Language!
